@@ -7,5 +7,5 @@ type WorldGenResult struct {
 
 type World struct {
 	name string
-	//chunks       map[vec.vec2i]Location
+	//chunks map[Chunk]vec.Vec2
 }

@@ -1,6 +1,6 @@
 package game
 
-import world "proc-gen-world/internal/World"
+import world "proc-gen-world/internal/world"
 
 type Game struct {
 	world.World
